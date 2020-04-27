@@ -44,5 +44,5 @@ end
 
 def using_delete_at(array, integer)
   var element = array[int]
-  array.delete(element.to_s)
+  array.delete(element)
 end
